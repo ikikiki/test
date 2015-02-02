@@ -1,0 +1,10 @@
+{
+    "name": "ikikiki/github-test",
+    "authors": [
+        {
+            "name": "wuh",
+            "email": "wuh@mysoft.com.cn"
+        }
+    ],
+    "require": {}
+}
